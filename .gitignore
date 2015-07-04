@@ -1,0 +1,10 @@
+# Kraftwagen
+src
+build
+builds
+cnf
+
+# MariaDB
+mariadb-data
+
+#
